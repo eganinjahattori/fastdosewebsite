@@ -742,15 +742,13 @@ Primary use:
 
 @media screen and (max-width: 536px) {
   .content-wrapper {
-    /* @media and (max-width: 536px){
-    padding-top: 20px;
-  } */
+    padding-bottom: 0;
     padding-top: 20px;
   }
 
   .outside-wrapper {
     position: relative;
-    background-image: url('https://fastdoze.com/images/bg02.jpg');
+    background-image: url("https://fastdoze.com/images/bg02.jpg");
     background-size: cover;
   }
 
